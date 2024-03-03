@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\TELKOM\\SEMESTER 4\\PRATIKUM KPL\\mod3kpl\\modul03\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2C16996C-7AEA-4A6E-87B5-8277A341BD75}|modul03\\modul03.csproj|d:\\telkom\\semester 4\\pratikum kpl\\mod3kpl\\modul03\\modul03\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C16996C-7AEA-4A6E-87B5-8277A341BD75}|modul03\\modul03.csproj|solutionrelative:modul03\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C16996C-7AEA-4A6E-87B5-8277A341BD75}|modul03\\modul03.csproj|d:\\telkom\\semester 4\\pratikum kpl\\mod3kpl\\modul03\\modul03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C16996C-7AEA-4A6E-87B5-8277A341BD75}|modul03\\modul03.csproj|solutionrelative:modul03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C16996C-7AEA-4A6E-87B5-8277A341BD75}|modul03\\modul03.csproj|d:\\telkom\\semester 4\\pratikum kpl\\mod3kpl\\modul03\\modul03\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C16996C-7AEA-4A6E-87B5-8277A341BD75}|modul03\\modul03.csproj|solutionrelative:modul03\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C16996C-7AEA-4A6E-87B5-8277A341BD75}|modul03\\modul03.csproj|d:\\telkom\\semester 4\\pratikum kpl\\mod3kpl\\modul03\\modul03\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2C16996C-7AEA-4A6E-87B5-8277A341BD75}|modul03\\modul03.csproj|solutionrelative:modul03\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\TELKOM\\SEMESTER 4\\PRATIKUM KPL\\mod3kpl\\modul03\\modul03\\Form1.cs",
+              "RelativeDocumentMoniker": "modul03\\Form1.cs",
+              "ToolTip": "D:\\TELKOM\\SEMESTER 4\\PRATIKUM KPL\\mod3kpl\\modul03\\modul03\\Form1.cs",
+              "RelativeToolTip": "modul03\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T16:00:05.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\TELKOM\\SEMESTER 4\\PRATIKUM KPL\\mod3kpl\\modul03\\modul03\\Program.cs",
+              "RelativeDocumentMoniker": "modul03\\Program.cs",
+              "ToolTip": "D:\\TELKOM\\SEMESTER 4\\PRATIKUM KPL\\mod3kpl\\modul03\\modul03\\Program.cs",
+              "RelativeToolTip": "modul03\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T15:55:02.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\TELKOM\\SEMESTER 4\\PRATIKUM KPL\\mod3kpl\\modul03\\modul03\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "modul03\\Form1.Designer.cs",
+              "ToolTip": "D:\\TELKOM\\SEMESTER 4\\PRATIKUM KPL\\mod3kpl\\modul03\\modul03\\Form1.Designer.cs",
+              "RelativeToolTip": "modul03\\Form1.Designer.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAowBYAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T15:51:15.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\TELKOM\\SEMESTER 4\\PRATIKUM KPL\\mod3kpl\\modul03\\modul03\\Form1.cs",
+              "RelativeDocumentMoniker": "modul03\\Form1.cs",
+              "ToolTip": "D:\\TELKOM\\SEMESTER 4\\PRATIKUM KPL\\mod3kpl\\modul03\\modul03\\Form1.cs [Design]",
+              "RelativeToolTip": "modul03\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T15:50:40.961Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

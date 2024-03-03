@@ -1,0 +1,17 @@
+D:\TELKOM\SEMESTER 4\PRATIKUM KPL\mod3kpl\modul03\modul03\bin\Debug\net8.0-windows\modul03.exe
+D:\TELKOM\SEMESTER 4\PRATIKUM KPL\mod3kpl\modul03\modul03\bin\Debug\net8.0-windows\modul03.deps.json
+D:\TELKOM\SEMESTER 4\PRATIKUM KPL\mod3kpl\modul03\modul03\bin\Debug\net8.0-windows\modul03.runtimeconfig.json
+D:\TELKOM\SEMESTER 4\PRATIKUM KPL\mod3kpl\modul03\modul03\bin\Debug\net8.0-windows\modul03.dll
+D:\TELKOM\SEMESTER 4\PRATIKUM KPL\mod3kpl\modul03\modul03\bin\Debug\net8.0-windows\modul03.pdb
+D:\TELKOM\SEMESTER 4\PRATIKUM KPL\mod3kpl\modul03\modul03\obj\Debug\net8.0-windows\modul03.Form1.resources
+D:\TELKOM\SEMESTER 4\PRATIKUM KPL\mod3kpl\modul03\modul03\obj\Debug\net8.0-windows\modul03.csproj.GenerateResource.cache
+D:\TELKOM\SEMESTER 4\PRATIKUM KPL\mod3kpl\modul03\modul03\obj\Debug\net8.0-windows\modul03.GeneratedMSBuildEditorConfig.editorconfig
+D:\TELKOM\SEMESTER 4\PRATIKUM KPL\mod3kpl\modul03\modul03\obj\Debug\net8.0-windows\modul03.AssemblyInfoInputs.cache
+D:\TELKOM\SEMESTER 4\PRATIKUM KPL\mod3kpl\modul03\modul03\obj\Debug\net8.0-windows\modul03.AssemblyInfo.cs
+D:\TELKOM\SEMESTER 4\PRATIKUM KPL\mod3kpl\modul03\modul03\obj\Debug\net8.0-windows\modul03.csproj.CoreCompileInputs.cache
+D:\TELKOM\SEMESTER 4\PRATIKUM KPL\mod3kpl\modul03\modul03\obj\Debug\net8.0-windows\modul03.sourcelink.json
+D:\TELKOM\SEMESTER 4\PRATIKUM KPL\mod3kpl\modul03\modul03\obj\Debug\net8.0-windows\modul03.dll
+D:\TELKOM\SEMESTER 4\PRATIKUM KPL\mod3kpl\modul03\modul03\obj\Debug\net8.0-windows\refint\modul03.dll
+D:\TELKOM\SEMESTER 4\PRATIKUM KPL\mod3kpl\modul03\modul03\obj\Debug\net8.0-windows\modul03.pdb
+D:\TELKOM\SEMESTER 4\PRATIKUM KPL\mod3kpl\modul03\modul03\obj\Debug\net8.0-windows\modul03.genruntimeconfig.cache
+D:\TELKOM\SEMESTER 4\PRATIKUM KPL\mod3kpl\modul03\modul03\obj\Debug\net8.0-windows\ref\modul03.dll
